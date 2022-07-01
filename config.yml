@@ -1,0 +1,41 @@
+baseURL: 
+languageCode: en-us
+title: "Home"
+theme: PaperMod
+
+params:
+  homeInfoParams:
+    Title: "Caleb Allen"
+    Content: Hello there, I write words and make pictures mostly in a picture book form.
+  socialIcons:
+    - name: instagram
+      url: "https://www.instagram.com/caleb.mallen/"
+    - name: other
+      url: "https://illustrationsbycaleb.com"
+
+  ShowBreadCrumbs: true
+
+  ShowReadingTime: true
+
+  ShowShareButtons: true
+
+  ShowPostNavLinks: true
+
+menu:
+  main:
+    - identifier: categories
+      name: Categories
+      url: /categories
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 30
+    - identifier: other
+      name: Newsletter
+      url: "https://caleballen.substack.com/"
+      weight: 40

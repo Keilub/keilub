@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on Home</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jul 2022 17:32:37 -0400</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>picture book</title>
+      <link>/categories/picture-book/</link>
+      <pubDate>Fri, 01 Jul 2022 17:32:37 -0400</pubDate>
+      
+      <guid>/categories/picture-book/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

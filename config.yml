@@ -1,12 +1,12 @@
 baseURL: 
 languageCode: en-us
-title: "Home"
+title: "Caleb Allen"
 theme: PaperMod
 
 params:
   homeInfoParams:
-    Title: "Caleb Allen"
-    Content: Hello there, I write words and make pictures mostly in a picture book form.
+    Title: "Hey There,"
+    Content: I write words and make pictures, mostly in a picture book form.
   socialIcons:
     - name: instagram
       url: "https://www.instagram.com/caleb.mallen/"

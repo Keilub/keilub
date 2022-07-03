@@ -6,12 +6,12 @@ theme: PaperMod
 params:
   homeInfoParams:
     Title: "Hey There,"
-    Content: I write words and make pictures, mostly in a picture book form.
+    Content: I write words and make pictures, mostly in a picture book form. Follow me on Instagram for daily updates, subscribe to my Newsletter, Art & Wander, for weekly (Wednesday) updates and this website for bi-monthly (Sunday) updates.
   socialIcons:
     - name: instagram
       url: "https://www.instagram.com/caleb.mallen/"
     - name: other
-      url: "https://illustrationsbycaleb.com"
+      url: "https://caleballen.substack.com/"
 
   ShowBreadCrumbs: true
 
@@ -35,7 +35,3 @@ menu:
       name: Archives
       url: /archives/
       weight: 30
-    - identifier: other
-      name: Newsletter
-      url: "https://caleballen.substack.com/"
-      weight: 40

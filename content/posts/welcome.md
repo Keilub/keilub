@@ -26,3 +26,4 @@ I'm starting this blog in the middle of a series I have been actively writing fo
 > ##### Duck: 
 
 They are sketched out and in a dummy form. Those dummies currently sit in a classroom of 5th graders as they read and give feedback. While those are out and being critiqued I am deep into work on Book 3 and 4. Book 3 follows Rabbit, and Book 4 follows Bear. I'm leaving Book 5 as a little surprise. The story of Rabbit is currently in its 5th version and the current focus of the critique group. Bear's story is mostly an outline of events and ideas for the story and its structure. 
+

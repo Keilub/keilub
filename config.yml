@@ -21,6 +21,8 @@ params:
 
   ShowPostNavLinks: true
 
+  ShowToc: true
+
 menu:
   main:
     - identifier: categories
